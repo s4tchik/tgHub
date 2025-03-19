@@ -20,8 +20,8 @@ from datetime import datetime
 import re
 
 # Настройки
-BOT_TOKEN = "7597499330:AAFV_qzG1EpcW6cxN-MY2ZJwcwVQWJFL9GQ"
-GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbybt85TD2iz71aKQaA8pLf532D1oRDk6QYogeKla0Elejm8W7WyO_QkU-wzpSVD5ao/exec"
+BOT_TOKEN = "1"
+GOOGLE_SCRIPT_URL = "1"
 
 # Настройка логирования
 logging.basicConfig(
