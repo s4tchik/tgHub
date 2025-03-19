@@ -1,6 +1,3 @@
-# Создание README.md для Telegram-бота GlassBaker
-
-cat <<EOF > README.md
 # Telegram-бот GlassBaker: Мастер-классы по стеклу
 
 ## Описание проекта
